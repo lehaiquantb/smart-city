@@ -7,7 +7,7 @@ module.exports = {
                 {
                     fullName: 'admin',
                     phone: '535352525',
-                    email: 'user1@tokyotechlab.com',
+                    email: 'user1@gmail.com',
                     password: bCrypt.hashSync(
                         'tt@1234',
                         bCrypt.genSaltSync(8),
@@ -21,7 +21,7 @@ module.exports = {
                 {
                     fullName: 'user2',
                     phone: '535352525',
-                    email: 'user2@tokyotechlab.com',
+                    email: 'user2@gmail.com',
                     password: bCrypt.hashSync(
                         'tt@1234',
                         bCrypt.genSaltSync(8),
@@ -35,7 +35,7 @@ module.exports = {
                 {
                     fullName: 'user3',
                     phone: '535352525',
-                    email: 'user3@tokyotechlab.com',
+                    email: 'user3@gmail.com',
                     password: bCrypt.hashSync(
                         'tt@1234',
                         bCrypt.genSaltSync(8),
@@ -49,7 +49,7 @@ module.exports = {
                 {
                     fullName: 'user4',
                     phone: '535352525',
-                    email: 'user4@tokyotechlab.com',
+                    email: 'user4@gmail.com',
                     password: bCrypt.hashSync(
                         'tt@1234',
                         bCrypt.genSaltSync(8),
